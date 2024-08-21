@@ -1,0 +1,1 @@
+This project is all about a small chatbot that interacts with the user in some little way. It introduces itself, asks for the users name and age based on certain criteria. it also asks a simple quiz question.
